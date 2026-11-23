@@ -135,7 +135,6 @@ Supabase Project Information:
 | Property | Value |
 |---|---|
 | Project Name | ROKON Coffee |
-| Project URL | https://ldbmjaxuluuonofldipw.supabase.co |
 | Region | eu-west-2 |
 | Plan | Free |
 
