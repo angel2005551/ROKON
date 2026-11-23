@@ -498,5 +498,4 @@ Built with Flutter and Supabase.
 
 **Yemen**
 
-</p>#   R O K O N  
- 
+</p>#
